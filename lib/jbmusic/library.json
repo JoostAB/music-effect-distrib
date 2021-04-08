@@ -1,0 +1,12 @@
+{
+    "name": "JBMusic",
+    "version": "1.0.0",
+    "description": "My attempt to build a music information distribution system for light effects, based on NRF24L01 chips",
+    "keywords": "",
+    "authors": {
+        "name": "Joost Bloemsma",
+        "email": "joost.a@bloemsma.net",
+        "url": "https://www.linkedin.com/in/joostbloemsma"
+    },
+    "license": "MIT"
+}
