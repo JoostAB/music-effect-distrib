@@ -3,9 +3,9 @@
 JBMServer::JBMServer() {};
 
 void JBMServer::setup() {
-  JBMusic::setup();
+  JBMBase::setup();
 };
 
 void JBMServer::loop() {
-  JBMusic::loop();
+  JBMBase::loop();
 }

@@ -1,9 +1,9 @@
 #ifndef _JB_MUSIC_DISTRIB_CLIENT_H
 #define _JB_MUSIC_DISTRIB_CLIENT_H
 
-#include <jbmusic.h>
+#include <jbmusic_base.h>
 
-class JBMClient: JBMusic {
+class JBMClient: public JBMBase {
 
   public:
     JBMClient();

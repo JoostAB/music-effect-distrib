@@ -3,9 +3,9 @@
 JBMClient::JBMClient() {}
 
 void JBMClient::setup() {
-  JBMusic::setup();
+  JBMBase::setup();
 }
 
 void JBMClient::loop() {
-  JBMusic::loop();
+  JBMBase::loop();
 }
